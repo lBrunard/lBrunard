@@ -28,14 +28,14 @@
 ### IDE's / Editors
 <p align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,vim,latex,notion" />
+    <img src="https://skillicons.dev/icons?i=vscode,vim,typst,notion" />
   </a>
 </p>
 
 ### Others
 <p align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,autocad,discord,git,github,gitlab" />
+    <img src="https://skillicons.dev/icons?i=arduino,discord,git,github,gitlab" />
   </a>
 </p>
 
